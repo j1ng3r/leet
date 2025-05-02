@@ -1,0 +1,9 @@
+[package]
+name = "binomial_heap"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <you@example.com>"]
+description = "A simple binomial heap implementation in Rust"
+license = "MIT"
+
+[dependencies]
